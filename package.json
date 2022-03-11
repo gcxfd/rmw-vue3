@@ -1,5 +1,5 @@
 {
-  "name": "my-lib",
+  "name": "@rmw/vuelib",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --host",
@@ -48,7 +48,6 @@
     "@babel/plugin-proposal-class-properties": "^7.16.7",
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-typescript": "^7.16.7",
-    "@iconify/json": "^2.1.14",
     "@rollup/plugin-alias": "^3.1.9",
     "@rollup/plugin-node-resolve": "^13.1.3",
     "@rollup/plugin-replace": "^4.0.0",
@@ -102,7 +101,6 @@
     "unplugin-vue": "^1.0.0",
     "vite": "^2.8.6",
     "vite-plugin-components": "^0.11.3",
-    "vite-plugin-icons": "^0.6.3",
     "vite-plugin-pages": "^0.21.4",
     "vite-plugin-svg-sprite": "^0.2.3",
     "vite-plugin-windicss": "^1.8.3",
